@@ -55,7 +55,7 @@ Of 400 raw rows, **349 are valid and usable**, 20 are duplicate orders, and 31 a
 Every cleaned value is a live Excel formula pointing back to its raw cell, so any result can be traced and checked.
 
 ---
-
+![image alt](https://github.com/bhakatkhush256-eng/retail-sales-data-cleaning/blob/bb21daafc52e31717db4f639382d59d721b5b3c4/1_thumbnail.png)
 ## 4. Cleaning Deep Dive
 
 ### Issues found and how each was fixed
